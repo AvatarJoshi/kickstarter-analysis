@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose: To analyze Kickstarter data to help our client (Louise) launch her own Kickstarter campaign, which seeks to bring the play "Fever" to the stage. The following deliverables have been requested: (1) Campaign Outcomes Based on Launch Date (2) Campaign Outcomes Based on Funding Goals (3) Conclusions Based on these Data Sets.
-[Kickstarter-Analysis](Kickstarter_Challenge.xlsx.zip)
+[Kickstarter-Analysis](Resources/Kickstarter_Challenge.xlsx.zip)
 
 
 ## Analysis and Challenges 
