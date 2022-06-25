@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose: To analyze Kickstarter data to help our client (Louise) launch her own Kickstarter campaign, which seeks to bring the play "Fever" to the stage. The following deliverables have been requested: (1) Campaign Outcomes Based on Launch Date (2) Campaign Outcomes Based on Funding Goals (3) Conclusions Based on these Data Sets.
-[Kickstarter-Analysis](AvatarJoshi/kickstarter-analysis/Kickstarter_Challenge.xlsx.zip)
+[Kickstarter-Analysis](Kickstarter_Challenge.xlsx.zip)
 
 
 ## Analysis and Challenges 
@@ -25,7 +25,7 @@ The data from  indicate that the number of successful Kickstarter campaigns that
 While the number of successful campaigns fluctuates depending on the month they are launched, the number of campaigns that fail or are canceled remain relatively stable regardless of campaign launch date. Together, this data indicates that the best time for Louise to launch her theater Kickstarter campaign is the the month of May and the worst time for her to launch her campaign is in December.  
 
 ---
-![Outcomes_vs_Launch](AvatarJoshi/kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ---
 
 
@@ -34,7 +34,7 @@ While the number of successful campaigns fluctuates depending on the month they 
 The data from (insert figure here) indicates an inverse relationship exists between Kickstarter campaign success and the campaigns fundraising goal. The data indicates that campaigns with lower fundraising goals have more success, while campaigns with high fundraising goals have lower success. Based on our existing data, I would recommend that Louise set a fundraising goal somewhere between 1,000 - 4,999. 
 
 ---
-![Outcomes_vs_Goals](AvatarJoshi/kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 ---
 
 
